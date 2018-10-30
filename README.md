@@ -53,7 +53,8 @@ Test_1 - tests to see if top10 occupations and top10 states are evaluated correc
 
 Test_2 - tests to see when the columns are different for different years
 
-Test_3 - tests when there are more than 10 distinct occupations and states
+Test_3 - tests when there are more than 10 distinct occupations and states. Hence, it also verifies that the percentages 
+are rounded off correctly as per the requirement.
 
 Check when problem in the data
 
